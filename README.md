@@ -1,18 +1,27 @@
-## Getting Started
+# Flappy Bird Game 🎮
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A fun and interactive Flappy Bird clone built using **Java** and **Swing**. Navigate the bird through pipes to earn points, but watch out—colliding with the pipes or falling ends the game!
 
-## Folder Structure
+## Features ✨
+- **Dynamic Gameplay**: Randomly generated pipes with varying gaps.
+- **Realistic Physics**: Gravity and velocity mechanics for bird movement.
+- **Score Tracking**: Earn points as you pass through pipes.
+- **Restart Option**: Replay the game instantly after losing.
+- **Humorous Game Over Messages**: Enjoy a bit of humor when you lose.
 
-The workspace contains two folders by default, where:
+## How to Play 🕹️
+1. Launch the game.
+2. Press the **Spacebar** to make the bird jump.
+3. Avoid hitting the pipes or falling off the screen.
+4. Try to score as high as you can!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Controls ⌨️
+- **Spacebar**: Jump
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Requirements 📋
+- Java 8 or higher
+- An IDE like IntelliJ IDEA, Eclipse, or simply run the `.jar` file if compiled.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## How to Run 🏃‍♂️
+1. Clone this repository:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
